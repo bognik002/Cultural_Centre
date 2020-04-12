@@ -7,3 +7,5 @@ The essential files here:
 3) students.py from the programs' csv files collect all students, find their possible pages at vk.com among the subscribers of the target
 groups, then verify them by the number of friends from their study program. the verified pages of the student are collected with their
 subscriptions, then the vectors of their subscriptions among the most popular groups are stored into csv files for each program
+
+*** file students/students_groups.xlsx is missing because of privacy rights. the code recreates this file
